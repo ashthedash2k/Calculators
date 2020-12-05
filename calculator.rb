@@ -25,4 +25,4 @@ value = Calculator.new(4, 3)
 
 adding_value = value.add()
 
-puts "your pdocut is: #{adding_value}"
+puts "your product is: #{adding_value}"
